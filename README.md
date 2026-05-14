@@ -38,10 +38,10 @@ A real-time system that detects driver drowsiness using computer vision and deep
 📂 Driver-Drowsiness-Detection
 
   ├── train/  
-        ├── closed/
-        ├── open/
-  ├── drowsiness.ipynb/
-  ├── drowsiness_model.h5/
-  ├── requirements.txt/
-  ├── alarm.mp3/
-  └── README.md/
+        ├── closed/  
+        ├── open/  
+  ├── drowsiness.ipynb/  
+  ├── drowsiness_model.h5/  
+  ├── requirements.txt/  
+  ├── alarm.mp3/  
+  └── README.md/  
