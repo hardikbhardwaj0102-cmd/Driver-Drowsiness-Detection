@@ -37,7 +37,7 @@ A real-time system that detects driver drowsiness using computer vision and deep
 
 📂 Driver-Drowsiness-Detection
 
-  ├── train/
+  ├── train/  
         ├── closed/
         ├── open/
   ├── drowsiness.ipynb/
