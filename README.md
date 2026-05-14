@@ -23,3 +23,25 @@ A real-time system that detects driver drowsiness using computer vision and deep
 * Detects face and eyes using Haar Cascades
 * CNN model predicts eye state (open/closed)
 * If eyes remain closed for a threshold time, alarm is triggered
+
+⚠️ Future Improvements
+
+* Improve accuracy with better CNN model
+* Add yawning detection
+* Mobile app integration
+* Night-time detection support
+
+🧠 Goal
+
+* To reduce road accidents by alerting drivers when they show signs of fatigue.
+
+📂 Driver-Drowsiness-Detection
+
+  ├── train/
+        ├── closed
+        ├── open
+  ├── drowsiness.ipynb
+  ├── drowsiness_model.h5
+  ├── requirements.txt
+  ├── alarm.mp3
+  └── README.md
